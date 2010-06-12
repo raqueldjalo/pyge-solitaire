@@ -1,0 +1,27 @@
+For version 2 and 3... if they ever get made:
+
+Separate board from gui. Put the draw methods separate from board and hole classes.
+Catch Exceptions and... eh, crash gracefully
+Move Animation
+3D rendering
+Make it work on Macs
+Write some help
+Write some test cases
+Saving of games
+Changing of theme
+Use menu bar
+Use Open GL
+NumField should continue inc/dec while button is down
+Make scaling dependant on screen size
+Change move method from hole.move to board.move
+Add board.redo
+board.undo - peg remove/add
+
+Show board solution / Solve board
+
+    solve simple board
+    work out methodology
+    solve complex board
+    
+    
+Show goal, board holes, pegs

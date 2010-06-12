@@ -1,0 +1,13 @@
+include COPYING.txt
+include TODO.txt
+include README.txt
+include Pyge.py
+include setup.py
+include board.py
+include draw.py
+include extensions.py
+include game.py
+include gui.py
+include hole.py
+include theme.py
+include utils.py

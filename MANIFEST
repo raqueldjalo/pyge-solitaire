@@ -1,0 +1,13 @@
+COPYING.txt
+Pyge.py
+README.txt
+TODO.txt
+board.py
+draw.py
+extensions.py
+game.py
+gui.py
+hole.py
+setup.py
+theme.py
+utils.py
