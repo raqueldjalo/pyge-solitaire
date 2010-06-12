@@ -1,0 +1,15 @@
+Help
+
+This is the game's documentation. It will explain how to play the game
+
+PAGE
+
+The Board
+
+Bla bla 
+
+PAGE
+
+The Goal
+
+Bla bla
