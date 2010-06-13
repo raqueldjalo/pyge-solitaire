@@ -6,7 +6,7 @@ Source: Resources\fonts\*; DestDir: {app}\Resources\fonts
 ;Source: Resources\images\*; DestDir: {app}\Resources\images
 Source: Resources\text\*; DestDir: {app}\Resources\text
 [Setup]
-AppCopyright=Annan Yearian
+AppCopyright=Annan Fay Yearian
 AppName=Pyge
 AppVerName=Pyge {#Version}
 LicenseFile={#Path}\documents\COPYING.txt
