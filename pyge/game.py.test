@@ -1,0 +1,13 @@
+The ``game`` module
+======================
+
+Using ``Pyge``
+-------------------
+
+    >>> from game import Pyge
+
+Now use it:
+
+    >>> p = Pyge(style='square', size=7)
+    >>> p.board.width
+    7
