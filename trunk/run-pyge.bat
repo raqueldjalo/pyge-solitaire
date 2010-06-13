@@ -1,2 +1,2 @@
 @echo off
-"pyge/Pyge.py"
+"source/pyge/Pyge.py"
