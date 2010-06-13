@@ -10,6 +10,8 @@ import sys, os, pygame, shutil, glob
 ### Program Specific Variables ###
 ##################################
 
+path = os.getcwd() + "\\source\\pyge\\"
+
 name = "Pyge"
 description = 'Peg Solitaire Implementaton'
 version = '1.1'
@@ -21,10 +23,10 @@ copyright = "Copyright (C) 2010"
 company = None
 license = 'GNU General Public License v3'
 
-script = "Pyge.py"
-icon_file = "icon.ico"
+script = path + "Pyge.py"
+icon_file = path + "icon.ico"
 dest_file = "Pyge"  # Final name of .exe file
-dest_dir = "../binaries"   # Final folder to contain the executable, data files, etc.
+dest_dir = "binaries"   # Final folder to contain the executable, data files, etc.
 build_dir = "build" #doesn't change anything yet
 
 optimize = 2
